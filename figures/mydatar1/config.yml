@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/GW455H312/GW455H312.png
+  - path: figures/mydatar1/mydatar1.csv
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/2191/articles/278401/master/file/figures/GW455H312/GW455H312.png"
-    folder_url: "/users/2191/articles/278401/master/folder/figures/GW455H312"
+    url: "/users/2191/articles/278401/master/file/figures/mydatar1/mydatar1.csv"
+    folder_url: "/users/2191/articles/278401/master/folder/figures/mydatar1"
