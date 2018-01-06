@@ -9,7 +9,7 @@ grid:
   columns: 1
   grid_elements:
   - path: figures/mydatar1/mydatar1.csv
-    type: static
+    type: table
     from:
     - 1
     - 1
